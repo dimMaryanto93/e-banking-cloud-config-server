@@ -4,8 +4,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.maryanto.dimas.products</groupId>
-	<artifactId>e-banking-cloud-config-server</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>e-banking-config-server</artifactId>
+	<version>1.0</version>
 	<packaging>jar</packaging>
 
 	<name>Application E-Banking config server</name>
